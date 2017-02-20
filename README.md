@@ -1,3 +1,8 @@
-# My Awesome Book
+# Git学习指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+我一直想写小说或诗歌类型的书，但迟迟没有出发，他们也还在酝酿。
+
+现在，为了学习「 分布式版本控制系统 」Git，我计划在一周之内完成「 Git 学习指南 」。
+
+想法很单纯，记录自己的知识，若能惠及更多的需要的人，那这本书也就发挥了最大的作用。
+
